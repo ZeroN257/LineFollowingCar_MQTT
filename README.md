@@ -40,7 +40,7 @@
 </ul>
 
 <h2 id="circuit-diagram">Circuit Diagram</h2>
-<p><img src="link_to_your_circuit_diagram_image" alt="Circuit Diagram"></p>
+<p><img src="Car_Sketch.png" alt="Circuit Diagram"></p>
 
 <h2 id="setup">Setup</h2>
 <ol>
